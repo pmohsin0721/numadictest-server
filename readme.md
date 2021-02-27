@@ -4,6 +4,7 @@
 
  1) Make a Database named numadic in the postgresql.
  2) create a table called LOGISTIC and import the given csv file in the table.
+ 3) I have created a database and imported csv file into the postgresql to run the application in my computer.
 
  Now you are ready to connect postgresql to backend.
  => To run the backend first do npm init.
